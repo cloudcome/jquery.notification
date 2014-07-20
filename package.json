@@ -1,0 +1,26 @@
+{
+  "name": "jquery.notification",
+  "version": "1.0.1",
+  "description": "jquery.notification 桌面通知",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "HTML5",
+    "validate"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery.notification"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery.notification.js",
+    "dependencies": {}
+  }
+}
